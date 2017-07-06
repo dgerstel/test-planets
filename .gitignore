@@ -1,3 +1,5 @@
 moons/
 *.dat
+*~
+log_*
 results/
