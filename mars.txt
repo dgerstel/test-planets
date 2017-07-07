@@ -5,3 +5,6 @@ Fourth line for Dawid's information
 But, it seems Venus'd be better.
 Resolved conflict here
 Simultaneous change in mars and venus.
+
+Started nother change
+and finished it
